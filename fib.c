@@ -1,6 +1,8 @@
 #include <cs50.h>
 #include<stdio.h>
 
+//cs50 is required for the get_int() function. Can be replaced with scanf//
+
 int main()
 {
    int a = 0, b = 1, y, c;
